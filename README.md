@@ -19,9 +19,7 @@ Todas as anotações são salvas de forma segura no `LocalStorage` do seu navega
 
 Você pode testar a aplicação acessando o link abaixo:
 
-**[Clique aqui para ver a demonstração](https://jonjonesbr.github.io/Caderno_Web/)**
-
-> **Dica:** Você pode facilmente hospedar este projeto gratuitamente no [GitHub Pages](https://pages.github.com/). Basta fazer o push do código para um repositório e ativar o GitHub Pages nas configurações.
+**[Clique aqui para abrir o app](https://jonjonesbr.github.io/Caderno_Web/)**
 
 ## 📸 Screenshot
 
