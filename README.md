@@ -19,14 +19,13 @@ Todas as anotações são salvas de forma segura no `LocalStorage` do seu navega
 
 Você pode testar a aplicação acessando o link abaixo:
 
-**[Clique aqui para ver a demonstração](URL_DA_SUA_DEMO_AQUI)**
+**[Clique aqui para ver a demonstração](https://jonjonesbr.github.io/Caderno_Web/)**
 
 > **Dica:** Você pode facilmente hospedar este projeto gratuitamente no [GitHub Pages](https://pages.github.com/). Basta fazer o push do código para um repositório e ativar o GitHub Pages nas configurações.
 
 ## 📸 Screenshot
 
-![Screenshot do Caderno Web](URL_DA_SUA_IMAGEM_AQUI)
-*(Substitua a URL acima pelo link de uma imagem da sua aplicação)*
+![Screenshot do Caderno Web](https://raw.githubusercontent.com/JonJonesBR/Caderno_Web/refs/heads/main/Imagem.png)
 
 ## 💻 Tecnologias Utilizadas
 
@@ -40,12 +39,12 @@ Como este é um projeto puramente *client-side*, não há necessidade de instala
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/caderno-web.git](https://github.com/seu-usuario/caderno-web.git)
+    git clone [https://github.com/JonJonesBR/Caderno_Web.git](https://github.com/JonJonesBR/Caderno_Web.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd caderno-web
+    cd Caderno_Web
     ```
 
 3.  **Abra o arquivo `index.html`:**
@@ -66,3 +65,4 @@ Contribuições são sempre bem-vindas! Se você tiver alguma ideia para melhora
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
